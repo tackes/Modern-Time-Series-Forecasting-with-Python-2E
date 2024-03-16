@@ -146,3 +146,5 @@ test.py
 notebooks/Chapter13/ft_transformer_global/
 lightning_logs/
 notebooks/Chapter16/saved_weights
+api_keys/kaggle.json
+notes.txt
